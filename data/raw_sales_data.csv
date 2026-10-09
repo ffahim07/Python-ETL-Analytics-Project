@@ -1,0 +1,7 @@
+order_id,customer_name,product,category,price,quantity,order_date
+101,Tanvir Ahmed,Laptop,Electronics,55000.0,1,2026-10-01
+102,Nusrat Jahan,Mouse,Electronics,1200.0,2,2026-10-02
+103,Rakibul Hasan,Keyboard,Electronics,3500.0,1,2026-10-03
+101,Tanvir Ahmed,Laptop,Electronics,55000.0,1,2026-10-01
+104,Farzana Mimi,Monitor,Electronics,15000.0,1,2026-10-04
+105,Imran Khan,Mouse,Electronics,1200.0,3,2026-10-05
